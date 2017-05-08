@@ -1,1 +1,5 @@
 1.creat read me file.
+git is version control system.
+git is free software.
+2.add distributed
+
