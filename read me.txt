@@ -2,4 +2,7 @@
 git is version control system.
 git is free software.
 2.add distributed
+git is distributed version control system.
+3.append GPL
+
 
